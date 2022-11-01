@@ -5,7 +5,7 @@ import Menu from './_menu';
 import ScrollMagic from 'scrollmagic';
 const controller = new ScrollMagic.Controller();
 import Plyr from 'plyr';
-import debounce from 'Lodash';
+//import debounce from 'Lodash';
 // import lazyload from 'lazyload';
 
 // console.log(lazyload());
