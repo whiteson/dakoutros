@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[1408/Α4/10]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[10mm]]></mm>
+		<mm_2><![CDATA[230mm]]></mm_2>
+		<kgs><![CDATA[380]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/12]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[12mm]]></mm>
+		<mm_2><![CDATA[250mm]]></mm_2>
+		<kgs><![CDATA[500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/16]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[16mm]]></mm>
+		<mm_2><![CDATA[320mm]]></mm_2>
+		<kgs><![CDATA[760]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/20]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[20mm]]></mm>
+		<mm_2><![CDATA[400mm]]></mm_2>
+		<kgs><![CDATA[1200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/20Α]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΑΝΟΙΧΤΟΙ  ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[20mm]]></mm>
+		<mm_2><![CDATA[400mm]]></mm_2>
+		<kgs><![CDATA[1200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/25Α]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΑΝΟΙΧΤΟΙ  ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[25mm]]></mm>
+		<mm_2><![CDATA[500mm]]></mm_2>
+		<kgs><![CDATA[2200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/5]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[5mm]]></mm>
+		<mm_2><![CDATA[170mm]]></mm_2>
+		<kgs><![CDATA[90]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/6]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[6mm]]></mm>
+		<mm_2><![CDATA[180mm]]></mm_2>
+		<kgs><![CDATA[100]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/8]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[8mm]]></mm>
+		<mm_2><![CDATA[200mm]]></mm_2>
+		<kgs><![CDATA[150]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/Γ/10]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[10mm]]></mm>
+		<mm_2><![CDATA[230mm]]></mm_2>
+		<kgs><![CDATA[300]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/Γ/12]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[12mm]]></mm>
+		<mm_2><![CDATA[250mm]]></mm_2>
+		<kgs><![CDATA[500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/Γ/5]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[5mm]]></mm>
+		<mm_2><![CDATA[170mm]]></mm_2>
+		<kgs><![CDATA[90]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/Γ/6]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[6mm]]></mm>
+		<mm_2><![CDATA[180mm]]></mm_2>
+		<kgs><![CDATA[100]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Α4/Γ/8]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></undefined1>
+		<mm><![CDATA[8mm]]></mm>
+		<mm_2><![CDATA[200mm]]></mm_2>
+		<kgs><![CDATA[200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/10]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[10mm]]></mm>
+		<mm_2><![CDATA[230mm]]></mm_2>
+		<kgs><![CDATA[300]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/12]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[12mm]]></mm>
+		<mm_2><![CDATA[250mm]]></mm_2>
+		<kgs><![CDATA[500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/14]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[14mm]]></mm>
+		<mm_2><![CDATA[265mm]]></mm_2>
+		<kgs><![CDATA[700]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/16]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[16mm]]></mm>
+		<mm_2><![CDATA[320mm]]></mm_2>
+		<kgs><![CDATA[1000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/20]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[20mm]]></mm>
+		<mm_2><![CDATA[400mm]]></mm_2>
+		<kgs><![CDATA[1500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/22]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[22mm]]></mm>
+		<mm_2><![CDATA[430mm]]></mm_2>
+		<kgs><![CDATA[2200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/25]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[25mm]]></mm>
+		<mm_2><![CDATA[500mm]]></mm_2>
+		<kgs><![CDATA[3000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/32]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[32mm]]></mm>
+		<mm_2><![CDATA[550mm]]></mm_2>
+		<kgs><![CDATA[4000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/5]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[5mm]]></mm>
+		<mm_2><![CDATA[170mm]]></mm_2>
+		<kgs><![CDATA[90]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/6]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[6mm]]></mm>
+		<mm_2><![CDATA[180mm]]></mm_2>
+		<kgs><![CDATA[100]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/Γ/8]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΓΑΝΤΖΟ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[8mm]]></mm>
+		<mm_2><![CDATA[200mm]]></mm_2>
+		<kgs><![CDATA[200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/10]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[10mm]]></mm>
+		<mm_2><![CDATA[230mm]]></mm_2>
+		<kgs><![CDATA[300]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/12]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[12mm]]></mm>
+		<mm_2><![CDATA[250mm]]></mm_2>
+		<kgs><![CDATA[500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/14]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[14mm]]></mm>
+		<mm_2><![CDATA[265mm]]></mm_2>
+		<kgs><![CDATA[700]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/16]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[16mm]]></mm>
+		<mm_2><![CDATA[320mm]]></mm_2>
+		<kgs><![CDATA[1000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/20]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[20mm]]></mm>
+		<mm_2><![CDATA[400mm]]></mm_2>
+		<kgs><![CDATA[1500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/22]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[22mm]]></mm>
+		<mm_2><![CDATA[430mm]]></mm_2>
+		<kgs><![CDATA[2200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/25]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[25mm]]></mm>
+		<mm_2><![CDATA[500mm]]></mm_2>
+		<kgs><![CDATA[3000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/32]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[32mm]]></mm>
+		<mm_2><![CDATA[550mm]]></mm_2>
+		<kgs><![CDATA[4000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/6]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[6mm]]></mm>
+		<mm_2><![CDATA[180mm]]></mm_2>
+		<kgs><![CDATA[100]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΜ/8]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΑΤΙ-ΜΑΤΙ ΓΑΛΒΑΝΙΖΕ]]></undefined1>
+		<mm><![CDATA[8mm]]></mm>
+		<mm_2><![CDATA[200mm]]></mm_2>
+		<kgs><![CDATA[200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/10]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[10mm]]></mm>
+		<mm_2><![CDATA[230mm]]></mm_2>
+		<kgs><![CDATA[380]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/12]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[12mm]]></mm>
+		<mm_2><![CDATA[250mm]]></mm_2>
+		<kgs><![CDATA[500]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/16]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[16mm]]></mm>
+		<mm_2><![CDATA[320mm]]></mm_2>
+		<kgs><![CDATA[760]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/20]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[20mm]]></mm>
+		<mm_2><![CDATA[400mm]]></mm_2>
+		<kgs><![CDATA[1200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/22]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[22mm]]></mm>
+		<mm_2><![CDATA[430mm]]></mm_2>
+		<kgs><![CDATA[1700]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/25]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[25mm]]></mm>
+		<mm_2><![CDATA[500mm]]></mm_2>
+		<kgs><![CDATA[2200]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/32]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[32mm]]></mm>
+		<mm_2><![CDATA[550mm]]></mm_2>
+		<kgs><![CDATA[3800]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[1408/ΜΠΟΥ/38]]></undefined0>
+		<undefined1><![CDATA[ΕΝΤΑΤΗΡΕΣ ΜΠΟΥΚΑΛΑ ΓΑΛΒΑΝΙΖΕ ]]></undefined1>
+		<mm><![CDATA[38mm]]></mm>
+		<mm_2><![CDATA[700mm]]></mm_2>
+		<kgs><![CDATA[5000]]></kgs>
+	</node>
+</data>

@@ -1,0 +1,233 @@
+.site-header {
+  // main menu
+  .main-menu {
+    // max-width: 80%;
+    // overflow-y: hidden;
+    &--left {
+      &:hover {
+        cursor: pointer;
+      }
+    }
+    &--right {
+      cursor: pointer;
+    }
+    ul.navbar-nav {
+      white-space: nowrap;
+      overflow-x: hidden;
+
+      li.menu-item {
+        white-space: nowrap;
+        // overflow-x: auto;
+
+        a.nav-link {
+        }
+      }
+    }
+  }
+
+  // MEGA MENU
+  .main-navigation {
+    .main-navigation__burger {
+      &__text {
+        color: $c_blue;
+      }
+
+      &__icon {
+        span {
+          background-color: $c_blue;
+        }
+      }
+    }
+
+    &__burger {
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+
+      &__inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        &:after {
+          content: "";
+          position: absolute;
+          top: 12px;
+          right: -20px;
+          width: 1px;
+          height: 35px;
+          background-color: $c_black;
+
+          @include bp($b_tablet) {
+            top: 18px;
+            height: 44px;
+          }
+
+          body.menu-open & {
+            // background-color: red !important;
+          }
+        }
+      }
+
+      &__text {
+        position: relative;
+        // font-family: $t_font_paris;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.08em;
+        color: $c_white;
+        padding-left: 10px;
+        display: none;
+        transition: color 0.4s ease;
+
+        @include bp($b_tablet) {
+          display: block;
+        }
+
+        > span:last-child {
+          display: none;
+        }
+
+        body.menu-open & {
+          color: $c_white !important;
+
+          > span:first-child {
+            display: none;
+          }
+
+          > span:last-child {
+            display: block;
+          }
+        }
+      }
+
+      &__icon {
+        position: relative;
+        display: block;
+        width: 34px;
+        height: 30px;
+
+        @include bp($b_tablet) {
+          width: 45px;
+        }
+
+        span {
+          position: absolute;
+          width: 34px;
+          height: 2px;
+          right: 0;
+          background-color: $c_black;
+          top: 0px;
+          transition: opacity 0.4s ease, background-color 0.4s ease;
+
+          @include bp($b_tablet) {
+            width: 45px;
+            left: 0;
+            top: 0;
+          }
+
+          body.menu-open & {
+            background-color: $c_black !important;
+          }
+
+          &:nth-child(2) {
+            width: 34px;
+            top: 12px;
+            transition: transform 0.4s ease, background-color 0.4s ease;
+
+            @include bp($b_tablet) {
+              width: 45px;
+              top: 14px;
+            }
+          }
+
+          &:nth-child(3) {
+            width: 34px;
+            top: 12px;
+            transition: transform 0.4s ease, background-color 0.4s ease;
+
+            @include bp($b_tablet) {
+              width: 45px;
+              top: 14px;
+            }
+          }
+
+          &:nth-child(4) {
+            width: 34px;
+            top: 24px;
+
+            @include bp($b_tablet) {
+              width: 45px;
+              top: 28px;
+            }
+          }
+
+          .menu-open & {
+            &:nth-child(1),
+            &:nth-child(4) {
+              opacity: 0;
+            }
+
+            &:nth-child(2) {
+              transform: rotate(135deg);
+              transition: transform 0.4s ease;
+            }
+
+            &:nth-child(3) {
+              transform: rotate(225deg);
+              transition: transform 0.6s ease;
+            }
+          }
+        }
+      }
+    }
+
+    .menu-megamenu-container {
+      .menu {
+        display: flex;
+        flex-direction: column;
+        .menu-item {
+          list-style: none;
+          position: relative;
+          // text-align: center;
+
+          .nav-link {
+            position: relative;
+            max-width: 33vw;
+            background: #acacacac;
+            line-height: 1.9em;
+            font-size: 2.3em;
+            font-size: 1.8rem;
+            &:after {
+              content: "";
+              position: absolute;
+              bottom: -2px;
+              left: 0;
+              width: 100%;
+              height: 2px;
+              background-color: $c_blue;
+              transform: scaleX(0);
+              transition: transform 0.4s ease;
+              transform-origin: left center;
+            }
+
+            &:hover {
+              &:after {
+                transform: scaleX(1);
+              }
+            }
+          }
+
+          & > .sub-menu {
+            display: none;
+            position: absolute;
+            left: 33vw;
+            top: 0;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66104/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις για ποτήρι]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66108/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις για ποτήρι βαρέως τύπου]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66222/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις για ποτήρι λοξή]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/22101/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις για ποτήρι σπαστή]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66077/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[30]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66015/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[45]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66042/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66041/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66177/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[30]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66115/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[45]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66142/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66141/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09733/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66041/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις παρ/μες 90 μοίρες]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66221/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις ποτηριού για σωλήνα]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66208/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις σκάλας]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66078/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[30]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66014/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[45]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66040/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66039/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66078/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[30]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66014/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[45]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66040/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66039/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66178/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[30]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66114/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[45]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66140/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66139/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09992/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9768/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09687/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09769/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάσεις στρογγυλές]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66213/Α4]]></undefined0>
+		<undefined1><![CDATA[Βάση φωτοβολταϊκού ανοξείδωτη]]></undefined1>
+		<undefined2><![CDATA[-]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66100/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66102/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9713/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66158/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες βαρέως τύπου 25mm]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/35081/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες διαιρούμενες]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/35082/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες διαιρούμενες]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/35083/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες διαιρούμενες]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9679/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες διαιρούμενες]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66122/Α4]]></undefined0>
+		<undefined1><![CDATA[Γλύστρες με δέστρα 25mm]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66076/Α4]]></undefined0>
+		<undefined1><![CDATA[Γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66176/Α4]]></undefined0>
+		<undefined1><![CDATA[Γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9744/Α4]]></undefined0>
+		<undefined1><![CDATA[Γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9686/Α4]]></undefined0>
+		<undefined1><![CDATA[Γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66051/Α4]]></undefined0>
+		<undefined1><![CDATA[Καμπύλες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[110]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66086/Α4]]></undefined0>
+		<undefined1><![CDATA[Καμπύλες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[125]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66185/Α4]]></undefined0>
+		<undefined1><![CDATA[Καμπύλες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[140]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66151/Α4]]></undefined0>
+		<undefined1><![CDATA[Καμπύλες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[110]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66186/Α4]]></undefined0>
+		<undefined1><![CDATA[Καμπύλες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[125]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66187/Α4]]></undefined0>
+		<undefined1><![CDATA[Καμπύλες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[140]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[742/Α2/2122]]></undefined0>
+		<undefined1><![CDATA[Κολλάρα σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[742/A2/2125]]></undefined0>
+		<undefined1><![CDATA[Κολλάρα σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[742/A2/2130]]></undefined0>
+		<undefined1><![CDATA[Κολλάρα σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[742/A2/2140]]></undefined0>
+		<undefined1><![CDATA[Κολλάρα σωλήνας]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66101/Α4]]></undefined0>
+		<undefined1><![CDATA[Ποτήρια σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66103/Α4]]></undefined0>
+		<undefined1><![CDATA[Ποτήρια σωλήνας]]></undefined1>
+		<undefined2><![CDATA[24]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9788/Α4]]></undefined0>
+		<undefined1><![CDATA[Ποτήρια σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9668/Α4]]></undefined0>
+		<undefined1><![CDATA[Ποτήρια σωλήνας]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66094/Α4]]></undefined0>
+		<undefined1><![CDATA[Σταυροί σωλήνας ανοξείδωτοι]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66194/Α4]]></undefined0>
+		<undefined1><![CDATA[Σταυροί σωλήνας ανοξείδωτοι]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09799/Α4]]></undefined0>
+		<undefined1><![CDATA[Σταυροί σωλήνας ανοξείδωτοι]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9905/Α4]]></undefined0>
+		<undefined1><![CDATA[Σύνδεσμοι σωλήνας σπαστός]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9906/Α4]]></undefined0>
+		<undefined1><![CDATA[Σύνδεσμοι σωλήνας σπαστός]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66088/Α4]]></undefined0>
+		<undefined1><![CDATA[Τάπες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66188/Α4]]></undefined0>
+		<undefined1><![CDATA[Τάπες σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66229/Α4]]></undefined0>
+		<undefined1><![CDATA[Τάπες κωνικές]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66230/Α4]]></undefined0>
+		<undefined1><![CDATA[Τάπες κωνικές]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9794/Α4]]></undefined0>
+		<undefined1><![CDATA[Τάπες κωνικές]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66020/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ με δέστρα ]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66043/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66093/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66143/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66193/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09730/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09778/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09694/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09684/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[60]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66047/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας διαιρούμενο]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66147/Α4]]></undefined0>
+		<undefined1><![CDATA[Ταφ σωλήνας διαιρούμενο]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[90]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66048/Α4]]></undefined0>
+		<undefined1><![CDATA[Τελείωματα  αρσενικά]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66030/Α4]]></undefined0>
+		<undefined1><![CDATA[Τελείωματα  θηλυκά]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66130/Α4]]></undefined0>
+		<undefined1><![CDATA[Τελείωματα  θηλυκά]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66030/Α4]]></undefined0>
+		<undefined1><![CDATA[Τελειώματα σωλήνων θηλυκά]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66046/Α4]]></undefined0>
+		<undefined1><![CDATA[Τριπλές γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66146/Α4]]></undefined0>
+		<undefined1><![CDATA[Τριπλές γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/09798/Α4]]></undefined0>
+		<undefined1><![CDATA[Τριπλές γωνιές σωλήνας]]></undefined1>
+		<undefined2><![CDATA[30]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66376/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια γραμμής]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66476/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια γραμμής]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9763/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια γραμμής]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/30025/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια γραμμής]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66375/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια τελικά]]></undefined1>
+		<undefined2><![CDATA[22]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/66475/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια τελικά]]></undefined1>
+		<undefined2><![CDATA[25]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΞΣ/9765/Α4]]></undefined0>
+		<undefined1><![CDATA[Φρούσια τελικά]]></undefined1>
+		<undefined2><![CDATA[40]]></undefined2>
+		<undefined3><![CDATA[-]]></undefined3>
+	</node>
+</data>

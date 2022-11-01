@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/10/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/10/75]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[75]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/12/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[12]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/6/50]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[50]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/6/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/8/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/8/60]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[60]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/8/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/10/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/10/60]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[60]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/10/75]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[75]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/12/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[12]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/6/130]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[130]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/6/50]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[50]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/6/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/8/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/8/60]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[60]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/8/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/10/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/10/75]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[75]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/12/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[12]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/6/50]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[50]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/6/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/8/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[9]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/8/60]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[60]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Γ/8/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/10/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/10/60]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[60]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/10/75]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[10]]></diametros>
+		<mikos><![CDATA[75]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/12/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[12]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/6/130]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[130]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/6/50]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[50]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/6/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[6]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/8/100]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[100]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/8/60]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[60]]></mikos>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΜΑΠ/Σ/Χ/8/80]]></kodikos>
+		<titlos><![CDATA[ΜΑΠΑ ΣΤΡΙΦΩΝΙ ΧΑΛΚΑ ΓΑΛΒΑΝΙΖΕ]]></titlos>
+		<diametros><![CDATA[8]]></diametros>
+		<mikos><![CDATA[80]]></mikos>
+	</node>
+</data>

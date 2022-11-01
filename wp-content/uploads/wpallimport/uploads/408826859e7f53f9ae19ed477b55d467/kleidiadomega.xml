@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/10]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[10]]></mm>
+		<fortioasfkgs><![CDATA[320]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/12]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[520]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/14]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[14]]></mm>
+		<fortioasfkgs><![CDATA[650]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/16]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[16]]></mm>
+		<fortioasfkgs><![CDATA[800]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/20]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[20]]></mm>
+		<fortioasfkgs><![CDATA[1100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/22]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[22]]></mm>
+		<fortioasfkgs><![CDATA[1500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/25]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[25]]></mm>
+		<fortioasfkgs><![CDATA[2100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/28]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[28]]></mm>
+		<fortioasfkgs><![CDATA[3000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/32]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[32]]></mm>
+		<fortioasfkgs><![CDATA[3500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/38]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[38]]></mm>
+		<fortioasfkgs><![CDATA[5000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/5]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[5]]></mm>
+		<fortioasfkgs><![CDATA[80]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/50]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[50]]></mm>
+		<fortioasfkgs><![CDATA[8000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/6]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[6]]></mm>
+		<fortioasfkgs><![CDATA[100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/8]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΓΑΛΒ.]]></description>
+		<mm><![CDATA[8]]></mm>
+		<fortioasfkgs><![CDATA[200]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/10]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[10]]></mm>
+		<fortioasfkgs><![CDATA[1000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[12]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/12]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[2000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[16]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/16]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[16]]></mm>
+		<fortioasfkgs><![CDATA[3250]]></fortioasfkgs>
+		<pyrosmm><![CDATA[19]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/20]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[20]]></mm>
+		<fortioasfkgs><![CDATA[4750]]></fortioasfkgs>
+		<pyrosmm><![CDATA[22]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/22]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[22]]></mm>
+		<fortioasfkgs><![CDATA[6500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[25]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/25]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[25]]></mm>
+		<fortioasfkgs><![CDATA[8500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[28]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/28]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[28]]></mm>
+		<fortioasfkgs><![CDATA[9500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[32]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/32]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[32]]></mm>
+		<fortioasfkgs><![CDATA[12000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[35]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/38]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[38]]></mm>
+		<fortioasfkgs><![CDATA[17000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[44]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/45]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[45]]></mm>
+		<fortioasfkgs><![CDATA[25000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[50]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/50]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[50]]></mm>
+		<fortioasfkgs><![CDATA[35000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[55]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/6]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[6]]></mm>
+		<fortioasfkgs><![CDATA[500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[8]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Τ/8]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ D ΤΕΣΤ]]></description>
+		<mm><![CDATA[8]]></mm>
+		<fortioasfkgs><![CDATA[750]]></fortioasfkgs>
+		<pyrosmm><![CDATA[10]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/10]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[10]]></mm>
+		<fortioasfkgs><![CDATA[320]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/12]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[520]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/14]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[14]]></mm>
+		<fortioasfkgs><![CDATA[650]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/16]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[16]]></mm>
+		<fortioasfkgs><![CDATA[800]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/20]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[20]]></mm>
+		<fortioasfkgs><![CDATA[1100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/22]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[22]]></mm>
+		<fortioasfkgs><![CDATA[1500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/25]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[25]]></mm>
+		<fortioasfkgs><![CDATA[2100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/28]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[28]]></mm>
+		<fortioasfkgs><![CDATA[3000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/32]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[32]]></mm>
+		<fortioasfkgs><![CDATA[3500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/38]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[38]]></mm>
+		<fortioasfkgs><![CDATA[5000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/5]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[5]]></mm>
+		<fortioasfkgs><![CDATA[80]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/50]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[50]]></mm>
+		<fortioasfkgs><![CDATA[8000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/6]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[6]]></mm>
+		<fortioasfkgs><![CDATA[100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Γ/Ω/8]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΓΑΛΒ.]]></description>
+		<mm><![CDATA[8]]></mm>
+		<fortioasfkgs><![CDATA[200]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/10]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[10]]></mm>
+		<fortioasfkgs><![CDATA[1000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[12]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/12]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[2000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[16]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/16]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[16]]></mm>
+		<fortioasfkgs><![CDATA[3250]]></fortioasfkgs>
+		<pyrosmm><![CDATA[19]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/20]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[20]]></mm>
+		<fortioasfkgs><![CDATA[4750]]></fortioasfkgs>
+		<pyrosmm><![CDATA[22]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/22]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[22]]></mm>
+		<fortioasfkgs><![CDATA[6500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[25]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/25]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[25]]></mm>
+		<fortioasfkgs><![CDATA[8500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[28]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/28]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[28]]></mm>
+		<fortioasfkgs><![CDATA[9500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[32]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/32]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[32]]></mm>
+		<fortioasfkgs><![CDATA[12000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[35]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/35]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[35]]></mm>
+		<fortioasfkgs><![CDATA[13500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[38]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/38]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[38]]></mm>
+		<fortioasfkgs><![CDATA[17000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[44]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/45]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[45]]></mm>
+		<fortioasfkgs><![CDATA[25000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[50]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/50]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[50]]></mm>
+		<fortioasfkgs><![CDATA[35000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[55]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/8]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒΑΝΙΖΕ ΤΥΠΟΥ Ω ΤΕΣΤ]]></description>
+		<mm><![CDATA[8]]></mm>
+		<fortioasfkgs><![CDATA[750]]></fortioasfkgs>
+		<pyrosmm><![CDATA[10]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/12]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[2000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[16]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/16]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[16]]></mm>
+		<fortioasfkgs><![CDATA[3250]]></fortioasfkgs>
+		<pyrosmm><![CDATA[19]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/20]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[20]]></mm>
+		<fortioasfkgs><![CDATA[4750]]></fortioasfkgs>
+		<pyrosmm><![CDATA[22]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/22]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[22]]></mm>
+		<fortioasfkgs><![CDATA[6500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[25]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/25]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[25]]></mm>
+		<fortioasfkgs><![CDATA[8500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[28]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/32]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[32]]></mm>
+		<fortioasfkgs><![CDATA[12000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[35]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/Ω/Τ/Π/38]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΓΑΛΒ. Ω ΤΕΣΤ ΜΕ ΠΑΞΙΜΑΔΙ]]></description>
+		<mm><![CDATA[38]]></mm>
+		<fortioasfkgs><![CDATA[17000]]></fortioasfkgs>
+		<pyrosmm><![CDATA[44]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/5]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[5]]></mm>
+		<fortioasfkgs><![CDATA[80]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/6]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[6]]></mm>
+		<fortioasfkgs><![CDATA[100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/8]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[8]]></mm>
+		<fortioasfkgs><![CDATA[200]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/10]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[10]]></mm>
+		<fortioasfkgs><![CDATA[320]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/12]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[520]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/14]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[14]]></mm>
+		<fortioasfkgs><![CDATA[650]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/16]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[16]]></mm>
+		<fortioasfkgs><![CDATA[800]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/18]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[18]]></mm>
+		<fortioasfkgs><![CDATA[950]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/20]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[20]]></mm>
+		<fortioasfkgs><![CDATA[1100]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΚΛΕ/766/22]]></code>
+		<description><![CDATA[ΚΛΕΙΔΙ ΕΝΩΣΕΩΣ ΓΑΛΒ.]]></description>
+		<mm><![CDATA[22]]></mm>
+		<fortioasfkgs><![CDATA[1500]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΣΗΜ/ΠΛ/06]]></code>
+		<description><![CDATA[ΣΗΜΑΔΙΑ ΑΛΥΣΙΔΑΣ]]></description>
+		<mm><![CDATA[6]]></mm>
+		<fortioasfkgs><![CDATA[-]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΣΗΜ/ΠΛ/08]]></code>
+		<description><![CDATA[ΣΗΜΑΔΙΑ ΑΛΥΣΙΔΑΣ]]></description>
+		<mm><![CDATA[8]]></mm>
+		<fortioasfkgs><![CDATA[-]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΣΗΜ/ΠΛ/10]]></code>
+		<description><![CDATA[ΣΗΜΑΔΙΑ ΑΛΥΣΙΔΑΣ]]></description>
+		<mm><![CDATA[10]]></mm>
+		<fortioasfkgs><![CDATA[-]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+	<node>
+		<code><![CDATA[ΣΗΜ/ΠΛ/12]]></code>
+		<description><![CDATA[ΣΗΜΑΔΙΑ ΑΛΥΣΙΔΑΣ]]></description>
+		<mm><![CDATA[12]]></mm>
+		<fortioasfkgs><![CDATA[-]]></fortioasfkgs>
+		<pyrosmm><![CDATA[-]]></pyrosmm>
+	</node>
+</data>

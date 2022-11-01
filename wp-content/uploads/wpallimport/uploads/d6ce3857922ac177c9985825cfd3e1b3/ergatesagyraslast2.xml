@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/S612]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΕΞΩΤΕΡΙΚΟΙ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[600]]></watt>
+		<kgs><![CDATA[560]]></kgs>
+		<undefined5><![CDATA[6mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[269]]></mm>
+		<mm_2><![CDATA[140]]></mm_2>
+		<mm_3><![CDATA[200]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/YD1000]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΕΞΩΤΕΡΙΚΟΙ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[1000]]></watt>
+		<kgs><![CDATA[1000]]></kgs>
+		<undefined5><![CDATA[8/10mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[410]]></mm>
+		<mm_2><![CDATA[220]]></mm_2>
+		<mm_3><![CDATA[300]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/YD1000/24]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΕΞΩΤΕΡΙΚΟΙ]]></undefined1>
+		<dc><![CDATA[24]]></dc>
+		<watt><![CDATA[1000]]></watt>
+		<kgs><![CDATA[1000]]></kgs>
+		<undefined5><![CDATA[8/10mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[410]]></mm>
+		<mm_2><![CDATA[220]]></mm_2>
+		<mm_3><![CDATA[300]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/YD1600]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΕΞΩΤΕΡΙΚΟΙ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[1600]]></watt>
+		<kgs><![CDATA[1400]]></kgs>
+		<undefined5><![CDATA[10/12mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[440]]></mm>
+		<mm_2><![CDATA[240]]></mm_2>
+		<mm_3><![CDATA[430]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/YD1600/24]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΕΞΩΤΕΡΙΚΟΙ]]></undefined1>
+		<dc><![CDATA[24]]></dc>
+		<watt><![CDATA[1600]]></watt>
+		<kgs><![CDATA[1400]]></kgs>
+		<undefined5><![CDATA[10/12mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[440]]></mm>
+		<mm_2><![CDATA[240]]></mm_2>
+		<mm_3><![CDATA[430]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/511]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[600]]></watt>
+		<kgs><![CDATA[560]]></kgs>
+		<undefined5><![CDATA[6mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[260]]></mm>
+		<mm_2><![CDATA[85]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/611]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[800]]></watt>
+		<kgs><![CDATA[700]]></kgs>
+		<undefined5><![CDATA[8mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[320]]></mm>
+		<mm_2><![CDATA[110]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/711]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[1200]]></watt>
+		<kgs><![CDATA[1200]]></kgs>
+		<undefined5><![CDATA[8/10mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[350]]></mm>
+		<mm_2><![CDATA[110]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/711/24]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΕΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ]]></undefined1>
+		<dc><![CDATA[24]]></dc>
+		<watt><![CDATA[1200]]></watt>
+		<kgs><![CDATA[1200]]></kgs>
+		<undefined5><![CDATA[8/10mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[350]]></mm>
+		<mm_2><![CDATA[110]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/511Τ]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΗΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ ΤΥΜΠΑΝΟ ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[600]]></watt>
+		<kgs><![CDATA[560]]></kgs>
+		<undefined5><![CDATA[6mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[260]]></mm>
+		<mm_2><![CDATA[115]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/611Τ]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΗΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ ΤΥΜΠΑΝΟ ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[800]]></watt>
+		<kgs><![CDATA[700]]></kgs>
+		<undefined5><![CDATA[8mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[320]]></mm>
+		<mm_2><![CDATA[160]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/711Τ]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΗΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ ΤΥΜΠΑΝΟ ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[1200]]></watt>
+		<kgs><![CDATA[1200]]></kgs>
+		<undefined5><![CDATA[8/10mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[350]]></mm>
+		<mm_2><![CDATA[165]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/711Τ/24]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΗΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ ΤΥΜΠΑΝΟ ]]></undefined1>
+		<dc><![CDATA[24]]></dc>
+		<watt><![CDATA[1200]]></watt>
+		<kgs><![CDATA[1200]]></kgs>
+		<undefined5><![CDATA[8/10mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[350]]></mm>
+		<mm_2><![CDATA[165]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/811Τ]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΗΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ ΤΥΜΠΑΝΟ ]]></undefined1>
+		<dc><![CDATA[12]]></dc>
+		<watt><![CDATA[1600]]></watt>
+		<kgs><![CDATA[1600]]></kgs>
+		<undefined5><![CDATA[10/12mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[400]]></mm>
+		<mm_2><![CDATA[180]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΕΡΓ/811Τ/24]]></undefined0>
+		<undefined1><![CDATA[ΕΡΓΑΤΗΣ ΑΓΚΥΡΑΣ ΧΩΝΕΥΤΟΙ ΤΥΜΠΑΝΟ ]]></undefined1>
+		<dc><![CDATA[24]]></dc>
+		<watt><![CDATA[1600]]></watt>
+		<kgs><![CDATA[1600]]></kgs>
+		<undefined5><![CDATA[10/12mm]]></undefined5>
+		<undefined6><![CDATA[20m/min]]></undefined6>
+		<mm><![CDATA[400]]></mm>
+		<mm_2><![CDATA[180]]></mm_2>
+		<mm_3><![CDATA[-]]></mm_3>
+	</node>
+</data>

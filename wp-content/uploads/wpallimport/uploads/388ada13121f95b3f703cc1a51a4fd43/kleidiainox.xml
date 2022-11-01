@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/ΑΓ/6]]></kodikos>
+		<titlos><![CDATA[ΑΓΚΥΡΟΚΛΕΙΔΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[6]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/ΑΓ/8]]></kodikos>
+		<titlos><![CDATA[ΑΓΚΥΡΟΚΛΕΙΔΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/ΑΓ/10]]></kodikos>
+		<titlos><![CDATA[ΑΓΚΥΡΟΚΛΕΙΔΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[10]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[320]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/ΑΓ/12]]></kodikos>
+		<titlos><![CDATA[ΑΓΚΥΡΟΚΛΕΙΔΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[12]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[520]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/ΑΓ/14]]></kodikos>
+		<titlos><![CDATA[ΑΓΚΥΡΟΚΛΕΙΔΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[14]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[650]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/ΑΓ/16]]></kodikos>
+		<titlos><![CDATA[ΑΓΚΥΡΟΚΛΕΙΔΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[16]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[800]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/ΑΣΦ/Α4/5]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΑΣΦΑΛΕΙΑΣ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[5]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[80]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/ΑΣΦ/Α4/6]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΑΣΦΑΛΕΙΑΣ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[6]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/ΑΣΦ/Α4/8]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΑΣΦΑΛΕΙΑΣ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/ΑΣΦ/Α4/10]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΑΣΦΑΛΕΙΑΣ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[10]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[320]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Μ/4]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΜΑΚΡΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[4]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[70]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Μ/5]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΜΑΚΡΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[5]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[80]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Μ/6]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΜΑΚΡΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[6]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Μ/8]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΜΑΚΡΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Μ/10]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΜΑΚΡΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[10]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[320]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Μ/12]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΜΑΚΡΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[12]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[520]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/4]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[4]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[70]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/5]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[5]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[80]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/6]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[6]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/8]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/10]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[10]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[320]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/12]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[12]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[520]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/14]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[14]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[650]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/16]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[16]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[800]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/20]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[20]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[1100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/22]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[22]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[1500]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/25]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[25]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[2100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/28]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[28]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[3000]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/32]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ D ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[32]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[3500]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/4]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[4]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[70]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/5]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[5]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[80]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/6]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[6]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/8]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/10]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[10]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[320]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/12]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[12]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[520]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/14]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[14]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[650]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/16]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[16]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[800]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/20]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[20]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[1100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/22]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[22]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[1500]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/25]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[25]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[2100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Ω/28]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΝΑΥΤΙΚΟ ΤΥΠΟΥ Ω ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[28]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[3000]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Σ/4]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΣΤΡΙΦΤΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[4]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[70]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Σ/5]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΣΤΡΙΦΤΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[5]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[80]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Σ/6]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΣΤΡΙΦΤΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[6]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[100]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Σ/8]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΣΤΡΙΦΤΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Σ/10]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΣΤΡΙΦΤΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[10]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[320]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Σ/12]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΣΤΡΙΦΤΟ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[12]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[520]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Φ/8]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΦΑΡΔΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[8]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[200]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Φ/9]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΦΑΡΔΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[9]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[250]]></fortioasfaleiaskgs>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΚΛΕ/Α4/Φ/12]]></kodikos>
+		<titlos><![CDATA[ΚΛΕΙΔΙ ΦΑΡΔΥ ΙΝΟΧ]]></titlos>
+		<diametrosmm><![CDATA[12]]></diametrosmm>
+		<fortioasfaleiaskgs><![CDATA[520]]></fortioasfaleiaskgs>
+	</node>
+</data>

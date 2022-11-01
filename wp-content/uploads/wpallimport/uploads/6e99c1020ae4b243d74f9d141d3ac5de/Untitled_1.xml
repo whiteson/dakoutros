@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[1408/ΓΑ/10]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΕΝΤΑΤΗΡΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[1408/ΓΑ/12]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΕΝΤΑΤΗΡΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[1408/ΓΑ/6]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΕΝΤΑΤΗΡΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[1408/ΓΑ/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΕΝΤΑΤΗΡΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/1060805]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΤΗΛΕΣΚΟΠΙΚΟΙ]]></column_2>
+		<column_3><![CDATA[ΜΗΚΟΣ]]></column_3>
+		<column_4><![CDATA[60-120cm]]></column_4>
+		<column_5><![CDATA[ΧΡΩΜΑ]]></column_5>
+		<column_6><![CDATA[ΓΚΡΙ]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/1060807]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΤΗΛΕΣΚΟΠΙΚΟΙ]]></column_2>
+		<column_3><![CDATA[ΜΗΚΟΣ]]></column_3>
+		<column_4><![CDATA[120-210cm]]></column_4>
+		<column_5><![CDATA[ΧΡΩΜΑ]]></column_5>
+		<column_6><![CDATA[ΓΚΡΙ]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/1060811]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΤΗΛΕΣΚΟΠΙΚΟΙ]]></column_2>
+		<column_3><![CDATA[ΜΗΚΟΣ]]></column_3>
+		<column_4><![CDATA[120-210cm]]></column_4>
+		<column_5><![CDATA[ΧΡΩΜΑ]]></column_5>
+		<column_6><![CDATA[ΜΠΛΕ]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/52906]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/52908]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/52910]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/8377/Α4]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΠΑΡΑΘΥΡΟΥ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΜΗΚΟΣ]]></column_3>
+		<column_4><![CDATA[80mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/8378/Α4]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΠΑΡΑΘΥΡΟΥ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΜΗΚΟΣ]]></column_3>
+		<column_4><![CDATA[100mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/8382/Α4]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΠΑΡΑΘΥΡΟΥ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΜΗΚΟΣ]]></column_3>
+		<column_4><![CDATA[130mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/10]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΓΑΛΒΑΝΙΖΕ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/4]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΓΑΛΒΑΝΙΖΕ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[4mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΓΑΛΒΑΝΙΖΕ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[5mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/6]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΓΑΛΒΑΝΙΖΕ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΓΑΛΒΑΝΙΖΕ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/Α4/4]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[4mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/Α4/5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[5mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/Α4/6]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/S/Α4/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΤΥΠΟΥ S ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Α4/2735]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΜΕ ΠΕΙΡΟ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Α4/2736]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΜΕ ΠΕΙΡΟ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Α4/2737]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΜΕ ΠΕΙΡΟ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Α4/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΚΛΕΙΣΤΟ ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Α4/5/16]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΚΛΕΙΣΤΟ ΜΑΤΙ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/1]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/1.5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/10]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[10000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/11]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[11000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[2000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/250]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[250]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/3]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[3000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[5000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/500]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/7.5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[7500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α/750]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ  ΜΕ ΑΣΦΑΛΕΙΑ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[750]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α4/1.5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α4/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[2000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Α4/3]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΑΝΟΞΕΙΔΩΤΟΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[3000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/1]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/1.5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/10]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[10000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/11]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[11000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[2000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/3]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[3000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[5000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/7.5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[7500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/Α4/1]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1000]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/Α4/1.5]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[1500]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/Α4/150]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[150]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/Α4/350]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[350]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΓΑΝ/Φ/Σ/Α4/650]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΣΤΡΙΦΤΑΡΙ ΙΝΟΧ]]></column_2>
+		<column_3><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_3>
+		<column_4><![CDATA[650]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΚΛ/80004]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΠΛΑΣΤΙΚΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[4mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΚΛ/80005]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΠΛΑΣΤΙΚΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[5mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΚΛ/80006]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΠΛΑΣΤΙΚΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΚΛ/80008]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΠΛΑΣΤΙΚΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[ΚΛ/80010]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΑΚΙΑ ΛΑΣΤΙΧΟΥ ΠΛΑΣΤΙΚΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[-0]]></column_5>
+		<column_6><![CDATA[-0]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/1/2]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/1/4]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[1000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/3/4]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[20mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[12000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/3/8]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/5/16]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/5/8]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α337/7/8]]></column_1>
+		<column_2><![CDATA[ΣΥΝΔΕΣΜΟΙ ΣΠΑΣΤΟΙ Α-337]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[22mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[15000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α338/1/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔAΣ ΚΛΕΙΣΤΟΙ Α338]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α338/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔAΣ ΚΛΕΙΣΤΟΙ Α338]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α338/5/16]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔAΣ ΚΛΕΙΣΤΟΙ Α338]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α338/5/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔAΣ ΚΛΕΙΣΤΟΙ Α338]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α341/5/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙ ΤΡΙΓΩΝΟ 5/8]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/1]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[25mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[9000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/1/1/2]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[38mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[25000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/1/1/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[32mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[13000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/1/1/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[29mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[9500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/1/2]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/1/3/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[45mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[31500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/11/16]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[17mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/2]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[50mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[45000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/3/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[20mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5300]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α344/7/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΜΟΝΑ ΑΡΤΑΝΗΣ Α344]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[22mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[6500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/1/1/2]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[38mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[23600]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/1/1/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[32mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[13000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/1/1/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[29mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[9600]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/1/3/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[50mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[31500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/11/16]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[17mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[300]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/3/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[20mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[4500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/7/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[22mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[6500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α347/1]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΤΡΙΠΛΑ ΑΡΤΑΝΗΣ Α347]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[25mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[8500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α643/1]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΦΟΡΤΙΟΥ ΣΤΡΟΓΓΥΛΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[25mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[8500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α643/1/1/4]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΦΟΡΤΙΟΥ ΣΤΡΟΓΓΥΛΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[32mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[13000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α643/1/1/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΦΟΡΤΙΟΥ ΣΤΡΟΓΓΥΛΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[29mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[9500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[Α643/1/3/8]]></column_1>
+		<column_2><![CDATA[ΚΟΥΛΟΥΡΙΑ ΦΟΡΤΙΟΥ ΣΤΡΟΓΓΥΛΑ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[35mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[14500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S311/1/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΡΥΘΜΙΣΕΩΣ ΑΛΥΣΙΔΑΣ S311]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S311/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΡΥΘΜΙΣΕΩΣ ΑΛΥΣΙΔΑΣ S311]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S311/5/16]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΡΥΘΜΙΣΕΩΣ ΑΛΥΣΙΔΑΣ S311]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S311/5/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΡΥΘΜΙΣΕΩΣ ΑΛΥΣΙΔΑΣ S311]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S314/1/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ S314]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S314/1/4]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ S314]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[6mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[1000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S314/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ S314]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S314/5/16]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ S314]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S314/5/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ S314]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S315/1/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΠΙΡΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S315/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΠΙΡΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S315/5/16]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΠΙΡΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S315/5/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΑΛΥΣΙΔΑΣ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΠΙΡΟ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S316/1/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΜΑΤΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S316/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΜΑΤΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S316/5/16]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΦΟΡΤΙΟΥ ΜΕ ΠΙΣΩ ΑΣΦΑΛΕΙΑ ΚΑΙ ΜΑΤΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S317/1/2]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΣΥΡΜΑΤΟΣΧΟΙΝΟΥ ΣΥΡΟΜΕΝΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S317/3/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΣΥΡΜΑΤΟΣΧΟΙΝΟΥ ΣΥΡΟΜΕΝΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S317/5/8]]></column_1>
+		<column_2><![CDATA[ΓΑΝΤΖΟΙ ΣΥΡΜΑΤΟΣΧΟΙΝΟΥ ΣΥΡΟΜΕΝΟΙ]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S325/1/2]]></column_1>
+		<column_2><![CDATA[ΚΛΕΙΔΙΑ ΩΜΕΓΑ S325]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[12mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[5200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S325/3/8]]></column_1>
+		<column_2><![CDATA[ΚΛΕΙΔΙΑ ΩΜΕΓΑ S325]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[10mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[3200]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S325/5/16]]></column_1>
+		<column_2><![CDATA[ΚΛΕΙΔΙΑ ΩΜΕΓΑ S325]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[8mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[2000]]></column_6>
+	</node>
+	<node>
+		<column_1><![CDATA[S325/5/8]]></column_1>
+		<column_2><![CDATA[ΚΛΕΙΔΙΑ ΩΜΕΓΑ S325]]></column_2>
+		<column_3><![CDATA[ΔΙΑΜΕΤΡΟΣ]]></column_3>
+		<column_4><![CDATA[16mm]]></column_4>
+		<column_5><![CDATA[ΦΟΡΤ. ΑΣΦ. (kgs)]]></column_5>
+		<column_6><![CDATA[7500]]></column_6>
+	</node>
+</data>

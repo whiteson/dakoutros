@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[ΑΡΠ/1]]></undefined0>
+		<undefined1><![CDATA[ΑΡΠΑΓΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[1000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΡΠ/2]]></undefined0>
+		<undefined1><![CDATA[ΑΡΠΑΓΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[2000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΡΠ/3]]></undefined0>
+		<undefined1><![CDATA[ΑΡΠΑΓΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[3000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΡΠ/5]]></undefined0>
+		<undefined1><![CDATA[ΑΡΠΑΓΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[5000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΓΑΦ/1]]></undefined0>
+		<undefined1><![CDATA[ΓΑΦΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[1000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΓΑΦ/2]]></undefined0>
+		<undefined1><![CDATA[ΓΑΦΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[2000]]></kgs>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΓΑΦ/3]]></undefined0>
+		<undefined1><![CDATA[ΓΑΦΕΣ ΛΑΜΑΡΙΝΑΣ]]></undefined1>
+		<kgs><![CDATA[3000]]></kgs>
+	</node>
+</data>

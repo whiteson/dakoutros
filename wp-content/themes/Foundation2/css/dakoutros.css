@@ -1,0 +1,38 @@
+.logo{padding:85px 5px 15px 5px;display:block;float:left;width:13%;max-width:145px;min-width:50px;margin:1px;background:white}
+.top-bar{background: transparent}
+.contain-to-grid{background:#3156a6}
+.entry-title{color:#7e8083}
+.entry-content{color:#5c6471}
+.name h1{text-shadow:1px 1px 15px #C8CDFF}
+.title{text-shadow:1px 1px 15px #C8CDFF}
+.tab-bar{background:#3156a6}
+.left-off-canvas-menu{background:#3156a6}
+.footer {background:#3156a6;color:#a2a5aa;padding:20px}
+.footer a {color:#a2a5aa}
+.footer a:hover {color:white}
+.footer h6{color:#a2a5aa;width:100%}
+.logotop{height:30px; }
+    .sitetitle{float: left;z-index:-2;}
+    .sitetitle h1 {display:block;margin-left:auto;margin-right:auto;font-size:102%}
+    
+.ssba {	display:block;width:280px;margin:auto auto}
+.ssba img{ width: 35px !important;padding: 6px;border:0;box-shadow: none !important;display: inline !important;vertical-align: middle;}
+.ssba, .ssba a{text-decoration:none;background: none;font-size: 	20px;color:#3156a6!important;font-weight: normal;
+										}
+										
+#menu-main{margin:0 auto 1.0625rem auto;margin-left:-1.375rem;margin-right:0;padding:0;list-style:none;overflow:hidden;}
+#menu-main>li {list-style:none;float:left;margin-left:1.375rem;display:block;}
+#menu-main > li>* {display:block;}
+	
+.top-bar{display:block;width:100%;margin:auto auto!important; }
+.blue-line{display:block;width:100%;background-image:url(http://www.dakoutros.gr/wp-content/themes/Foundation/assets/img/icons/back-image.png);height:2px}
+	
+ .fixc{height:150px;width:171px}	
+ 
+ input{margin:2px!important;}
+ textarea{min-height:150px}
+ 
+ #newsletter{display:block;margin:5px;background-color:#4a6db8;padding:10px;min-height:70px;color:#a2a5aa;overflow:hidden}
+ 
+ 
+ .top-bar,.row{min-width:80.5rem;}

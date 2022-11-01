@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/30]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[20Χ30]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/40]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[30Χ40]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/50]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/60]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[40Χ60]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/70]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[50Χ70]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ100]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[60Χ100]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/120]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[70Χ120]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/150]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[90Χ150]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/200]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[150Χ200]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΤΡ/2030]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΛΑΔΑ]]></xora>
+		<disatssseiscm><![CDATA[20Χ30]]></disatssseiscm>
+		<sxima><![CDATA[ΤΡΙΓΩΝΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΑΜΕ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΑΜΕΡΙΚΗ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΑΓ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΑΓΓΛΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΓΕΡ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΓΕΡΜΑΝΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΔΑΝ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΔΑΝΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΚΥΠ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΚΥΠΡΟΣ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΝΟΡ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΝΟΡΒΗΓΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΟΛ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΟΛΛΑΝΔΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΓΑΛ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΓΑΛΛΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΣΟΥ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΣΟΥΗΔΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΦΙΛ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΦΙΛΑΝΔΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΕΛΒ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΛΒΕΤΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΙΤ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΙΤΑΛΙΑ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΕΟΚ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΕΟΚ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+	<node>
+		<kodikos><![CDATA[ΣΗΜ/ΠΕΙΡ/35Χ50Κ]]></kodikos>
+		<titlso><![CDATA[ΣΗΜΑΙΕΣ ΣΚΑΦΩΝ]]></titlso>
+		<xora><![CDATA[ΠΕΙΡΑΤΗ]]></xora>
+		<disatssseiscm><![CDATA[35Χ50]]></disatssseiscm>
+		<sxima><![CDATA[ΠΑΡΑΛ/ΜΟ]]></sxima>
+	</node>
+</data>

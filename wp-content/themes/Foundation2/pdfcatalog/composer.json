@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tecnick.com/tcpdf": "dev-master"
+    }
+}

@@ -1,0 +1,45 @@
+$p_assets: '../';
+$p_fonts: $p_assets + 'fonts/';
+
+
+@font-face {
+	font-family: 'Averta';
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+	src: url($p_fonts + 'Averta-ExtraBold.woff')  format('woff'),
+	url($p_fonts + 'Averta-ExtraBold.woff2')  format('woff2');
+}
+
+@font-face {
+	font-family: 'AvertaSemiBold';
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+	src: url($p_fonts + 'Averta-Semibold.woff2')  format('woff2');
+}
+
+
+@font-face {
+	font-family: 'GFSElpis';
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+	src: url($p_fonts + 'GFSElpis-Regular.woff') format('woff'),
+	 url($p_fonts + 'GFSElpis.woff2') format('woff2');
+}
+
+
+@font-face {
+	font-family: 'Ivar';
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+	src: url($p_fonts + 'IvarTextHydro-Regular.woff')  format('woff'),
+	url($p_fonts + 'IvarTextHydro-Regular.woff2')  format('woff2');
+}
+
+$t_font_averta: 'Averta','Helvetica';
+$t_font_averta_semibold: 'AvertaSemiBold','Helvetica';
+$t_font_elpis: 'GFSElpis','Helvetica';
+$t_font_ivar: 'Ivar';

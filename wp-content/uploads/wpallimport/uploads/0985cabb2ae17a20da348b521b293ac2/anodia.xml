@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[ΑΝ/1]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΧΕΛΩΝΕΣ]]></undefined1>
+		<kgs><![CDATA[1]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/1/2]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΧΕΛΩΝΕΣ]]></undefined1>
+		<kgs><![CDATA[0.5]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/2]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΧΕΛΩΝΕΣ]]></undefined1>
+		<kgs><![CDATA[2]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/3]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΧΕΛΩΝΕΣ]]></undefined1>
+		<kgs><![CDATA[3]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/4]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΧΕΛΩΝΕΣ]]></undefined1>
+		<kgs><![CDATA[4]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/5]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΧΕΛΩΝΕΣ]]></undefined1>
+		<kgs><![CDATA[5]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/100]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[100]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/110]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[110]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/115]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[115]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/120]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[120]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/150]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[150]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/50]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[--]]></kgs>
+		<mm><![CDATA[50]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/70]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[70]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/80]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[80]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/85]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[86]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/90]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[90]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΚΩΝ/95]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΚΩΝΙΚΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[95]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΜΑΣ/12]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΜΑΣΟΥΡΙΑ]]></undefined1>
+		<kgs><![CDATA[]]></kgs>
+		<mm><![CDATA[120]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΜΑΣ/16]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΜΑΣΟΥΡΙΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[160]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΜΑΣ/19]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΜΑΣΟΥΡΙΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[190]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΜΑΣ/22]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΜΑΣΟΥΡΙΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[200]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝ/ΣΤΡΟ]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΣΤΡΟΓΓΥΛΑ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[-]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/100]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΟ ΑΞΩΝΑ ]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[100]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/20]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ20]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[20]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/22]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ22]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[22]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/25]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ25]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[25]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/28]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ28]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[28]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/30]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ30]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[30]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/32]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ32]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[32]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/35]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ35]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[35]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/38]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΟ ΔΙΑΙΡΟΥΜΕΝΟ Φ38]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[38]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/40]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ40]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[40]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/45]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ45]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[45]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/50]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ50]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[50]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/55]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ55]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[55]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/60]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ60]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[60]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/70]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ70]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[70]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/75]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ75]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[75]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/80]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΟ ΔΙΑΙΡΟΥΜΕΝΟ Φ80]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[80]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/85]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΟ ΔΙΑΙΡΟΥΜΕΝΟ Φ85]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[85]]></mm>
+	</node>
+	<node>
+		<undefined0><![CDATA[ΑΝΟ/ΔΙ/90]]></undefined0>
+		<undefined1><![CDATA[ΑΝΟΔΙΑ ΔΙΑΙΡΟΥΜΕΝΑ Φ90]]></undefined1>
+		<kgs><![CDATA[-]]></kgs>
+		<mm><![CDATA[90]]></mm>
+	</node>
+</data>

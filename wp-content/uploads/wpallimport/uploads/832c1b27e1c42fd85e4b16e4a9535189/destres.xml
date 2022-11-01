@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[1217]]></id>
+		<sku><![CDATA[ΔΕΣ/10/20Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[20]]></mikos>
+		<undefined4><![CDATA[10]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1218]]></id>
+		<sku><![CDATA[ΔΕΣ/10/40Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[40]]></mikos>
+		<undefined4><![CDATA[10]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1219]]></id>
+		<sku><![CDATA[ΔΕΣ/10/60Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[60]]></mikos>
+		<undefined4><![CDATA[10]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1220]]></id>
+		<sku><![CDATA[ΔΕΣ/10/80Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[80]]></mikos>
+		<undefined4><![CDATA[10]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1221]]></id>
+		<sku><![CDATA[ΔΕΣ/12/100Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[100]]></mikos>
+		<undefined4><![CDATA[12]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1223]]></id>
+		<sku><![CDATA[ΔΕΣ/12/30Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[30]]></mikos>
+		<undefined4><![CDATA[12]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1224]]></id>
+		<sku><![CDATA[ΔΕΣ/12/90]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[90]]></mikos>
+		<undefined4><![CDATA[12]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1225]]></id>
+		<sku><![CDATA[ΔΕΣ/8/20Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[20]]></mikos>
+		<undefined4><![CDATA[80]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1226]]></id>
+		<sku><![CDATA[ΔΕΣ/8/50Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[50]]></mikos>
+		<undefined4><![CDATA[8]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1227]]></id>
+		<sku><![CDATA[ΔΕΣ/8/80Κ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΤΡΕΙΛΕΡ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[80]]></mikos>
+		<undefined4><![CDATA[8]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1195]]></id>
+		<sku><![CDATA[ΔΕΣ/Α4/10]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΚΕ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[250]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1196]]></id>
+		<sku><![CDATA[ΔΕΣ/Α4/12]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΚΕ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[300]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1197]]></id>
+		<sku><![CDATA[ΔΕΣ/Α4/4]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΚΕ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[100]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1198]]></id>
+		<sku><![CDATA[ΔΕΣ/Α4/5]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΚΕ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[127]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1199]]></id>
+		<sku><![CDATA[ΔΕΣ/Α4/6]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΚΕ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[153]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1200]]></id>
+		<sku><![CDATA[ΔΕΣ/Α4/8]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΚΕ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[200]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1185]]></id>
+		<sku><![CDATA[ΔΕΣ/ΑΝΑΔ/4.5]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΑΝΑΔΙΠΛΟΥΜΕΝΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[100]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1186]]></id>
+		<sku><![CDATA[ΔΕΣ/ΑΝΑΔ/6]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΑΝΑΔΙΠΛΟΥΜΕΝΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[153]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1187]]></id>
+		<sku><![CDATA[ΔΕΣ/ΑΝΑΔ/8]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΑΝΑΔΙΠΛΟΥΜΕΝΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[200]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1189]]></id>
+		<sku><![CDATA[ΔΕΣ/Κ/Α4/10]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΚΟΥΦΙΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[250]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1190]]></id>
+		<sku><![CDATA[ΔΕΣ/Κ/Α4/12]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΚΟΥΦΙΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[300]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1191]]></id>
+		<sku><![CDATA[ΔΕΣ/Κ/Α4/4]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΚΟΥΦΙΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[100]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1192]]></id>
+		<sku><![CDATA[ΔΕΣ/Κ/Α4/5]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΚΟΥΦΙΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[127]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1193]]></id>
+		<sku><![CDATA[ΔΕΣ/Κ/Α4/6]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΚΟΥΦΙΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[153]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1194]]></id>
+		<sku><![CDATA[ΔΕΣ/Κ/Α4/8]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΚΟΥΦΙΕΣ ΑΝΟΞΕΙΔΩΤΕΣ]]></title>
+		<mikos><![CDATA[200]]></mikos>
+		<undefined4><![CDATA[-----]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1207]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/11]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[110]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1201]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/11Λ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[110]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1208]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/14.5]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[145]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1202]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/14.5Λ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[145]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1209]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/18]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[180]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1203]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/18Λ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[180]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1210]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/20]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[200]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1211]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/21]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[210]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1212]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/22]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[220]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1204]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/22Λ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[220]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1213]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/6]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[60]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1205]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/6Λ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[60]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1214]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/8]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[80]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΜΑΥΡΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1206]]></id>
+		<sku><![CDATA[ΔΕΣ/ΠΛ/8Λ]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΕΣ ΠΛΑΣΤΙΚΕΣ]]></title>
+		<mikos><![CDATA[80]]></mikos>
+		<undefined4><![CDATA[-]]></undefined4>
+		<xroma><![CDATA[ΛΕΥΚΗ]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1215]]></id>
+		<sku><![CDATA[ΔΕΣ/ΣΚΙ/11402]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΑ ΣΚΙ ΙΝΟΧ 36ΜΜ]]></title>
+		<mikos><![CDATA[-]]></mikos>
+		<undefined4><![CDATA[36]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+	<node>
+		<id><![CDATA[1216]]></id>
+		<sku><![CDATA[ΔΕΣ/ΣΚΙ/11403]]></sku>
+		<title><![CDATA[ΔΕΣΤΡΑ ΣΚΙ ΙΝΟΧ 97ΜΜ]]></title>
+		<mikos><![CDATA[-]]></mikos>
+		<undefined4><![CDATA[97]]></undefined4>
+		<xroma><![CDATA[-]]></xroma>
+	</node>
+</data>

@@ -1,0 +1,37 @@
+
+// abstracts
+@import "abstracts/variables";
+
+// vendors
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/foundation-sites/scss/foundation";
+@import "node_modules/normalize.css/normalize";
+@import "node_modules/plyr/src/sass/plyr";
+// vendors overrides
+// @import "vendors/myvendor";
+
+// base
+@import "base/fonts",
+        "base/base",
+        "base/breakpoints";
+
+// layout
+@import "layout/header",
+        "layout/footer",
+        "layout/forms",
+        "layout/grid";
+
+// components
+@import "components/buttons",
+        "components/modal",
+        "components/post-grid",
+        "components/scroll-text",
+        "components/scroll-text-footer",
+        "components/main-content",
+        "components/footer-content",
+        "components/sound";
+
+// pages
+@import "pages/front-page",
+        "pages/page",
+        "pages/single";

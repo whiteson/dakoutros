@@ -1,0 +1,64 @@
+.sound {
+  position: fixed;
+  bottom: 57px;
+  right: 20px;
+  width: 40px;
+  height: 55px;
+  z-index: 22;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  @include bp("(min-width: 748px)") {
+    bottom: 8vw;
+    right: 2vw;
+    width: 3.3vw;
+    height: 8.5vw;
+    min-width: 50px;
+  }
+
+  @include bp($b_laptop){
+  
+      bottom: 4em;
+      right: 2vw;
+      width: 3.3vw;
+      height: 8.2vw;
+      min-width: 50px;
+  }
+
+  
+  @include bp($b_desktop){
+  
+    bottom: 50px;
+
+}
+
+  &:hover {
+    cursor: pointer;
+    .sound__on,
+    .sound__off {
+      max-width:100%!important;
+    }
+
+  }
+
+  &__on,
+  &__off {
+    position: absolute;
+
+    max-width: 90%;
+    max-height: 90%;
+    transition: max-width 0.2s 0s ease-in-out;
+    // display: none;
+
+    svg {
+      width: 98%;
+      height: auto;
+    }
+  }
+
+  &__off {
+    // display: block;
+  }
+}

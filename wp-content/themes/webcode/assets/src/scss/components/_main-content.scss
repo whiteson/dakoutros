@@ -1,0 +1,66 @@
+.main-content {
+  line-height: 1.45em;
+  color: black;
+  padding:  10% 10% 5%;
+  font-size: 18px;
+  font-family: $t_font_ivar;
+
+  font-size: calc(18px + (30 - 18) * ((100vw - 300px) / (1920 - 300)));
+
+  opacity: 0;
+  transform: translateY(2em);
+  transition: 1s opacity ease-in-out, 1s transform ease-in-out;
+
+  &.is-visible{
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+
+  @include bp($b_tablet) {
+    padding:  10% 10% 5%;
+    // font-size: 29px;
+    // font-size: 2.55vw;
+  }
+
+  @include bp($b_laptop) {
+    padding:  9% 9% 5%;
+    // font-size: 39px;
+    // font-size: 2.55vw;
+  }
+
+  @include bp($b_desktop) {
+    padding:  8% 8% 4%;
+    // font-size: 49px;
+    // font-size: 2.55vw;
+  }
+
+  &__svg {
+    text-align: center;
+
+    > svg {
+      padding: 60px;
+      min-width: 76px;
+      max-width: 200px;
+
+      width: calc(76px + (160 - 76) * ((100vw - 300px) / (1920 - 300)));
+      @include bp($b_tablet) {
+        padding: 60px;
+        padding: calc(76px + (180 - 76) * ((100vw - 300px) / (1920 - 300)));
+        // max-width: 10.4vw;
+      }
+
+      @include bp($b_laptop) {
+        padding: 80px;
+        padding: calc(76px + (140 - 76) * ((100vw - 300px) / (1920 - 300)));
+        // max-width: 10.4vw;
+      }
+
+      @include bp($b_desktop) {
+        padding: 100px;
+        padding: calc(76px + (120 - 76) * ((100vw - 300px) / (1920 - 300)));
+        // max-width: 10.4vw;
+      }
+    }
+  }
+}
